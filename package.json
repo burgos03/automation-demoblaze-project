@@ -1,0 +1,24 @@
+{
+  "name": "automation-demoblaze-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burgos03/automation-demoblaze-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burgos03/automation-demoblaze-project/issues"
+  },
+  "homepage": "https://github.com/burgos03/automation-demoblaze-project#readme",
+  "devDependencies": {
+    "cypress": "^13.6.0"
+  }
+}
